@@ -1,0 +1,140 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e56]: "Create a pricing card component with three tiers: Basic, Pro, and Enterprise"
+            - img [ref=e59]
+          - generic [ref=e75]:
+            - img [ref=e78]
+            - generic [ref=e83]:
+              - generic [ref=e86]: Creating App.jsx
+              - separator [ref=e87]
+              - generic [ref=e88]:
+                - paragraph [ref=e89]: "Done! I've created a pricing card component with three tiers. The design features:"
+                - list [ref=e90]:
+                  - listitem [ref=e91]:
+                    - strong [ref=e92]: Warm, editorial aesthetic
+                    - text: ": Stone and amber color palette instead of generic blues"
+                  - listitem [ref=e98]:
+                    - strong [ref=e99]: Visual hierarchy
+                    - text: ": The Pro tier scales up and gets a \"Most Popular\" badge with custom styling"
+                  - listitem [ref=e100]:
+                    - strong [ref=e101]: Intentional details
+                    - text: ": Offset shadows, custom checkmark circles, thick borders on the highlighted card"
+                  - listitem [ref=e102]:
+                    - strong [ref=e103]: Typography contrast
+                    - text: ": Large black headings paired with light-weight body text"
+                  - listitem [ref=e104]:
+                    - strong [ref=e105]: Responsive layout
+                    - text: ": Grid that adapts from single column on mobile to three columns on desktop"
+                - paragraph [ref=e106]: The component is fully self-contained in App.jsx with all pricing data structured as an array.
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e97]:
+        - generic [ref=f4e4]:
+          - generic [ref=f4e5]:
+            - heading "Simple, Transparent Pricing" [level=1] [ref=f4e6]
+            - paragraph [ref=f4e7]: Choose the perfect plan for your needs. Always flexible to scale.
+          - generic [ref=f4e8]:
+            - generic [ref=f4e11]:
+              - generic [ref=f4e12]:
+                - heading "Basic" [level=3] [ref=f4e13]
+                - paragraph [ref=f4e14]: Perfect for getting started
+              - generic [ref=f4e16]:
+                - generic [ref=f4e17]: $29
+                - generic [ref=f4e18]: /month
+              - button "Get Started" [ref=f4e19] [cursor=pointer]
+              - generic [ref=f4e21]:
+                - generic [ref=f4e22]:
+                  - img [ref=f4e25]
+                  - generic [ref=f4e27]: Up to 10 projects
+                - generic [ref=f4e28]:
+                  - img [ref=f4e31]
+                  - generic [ref=f4e33]: 5GB storage
+                - generic [ref=f4e34]:
+                  - img [ref=f4e37]
+                  - generic [ref=f4e39]: Basic analytics
+                - generic [ref=f4e40]:
+                  - img [ref=f4e43]
+                  - generic [ref=f4e45]: Community support
+                - generic [ref=f4e46]:
+                  - img [ref=f4e49]
+                  - generic [ref=f4e51]: Standard integrations
+            - generic [ref=f4e53]:
+              - generic [ref=f4e55]: MOST POPULAR
+              - generic [ref=f4e56]:
+                - generic [ref=f4e57]:
+                  - heading "Pro" [level=3] [ref=f4e58]
+                  - paragraph [ref=f4e59]: For growing teams
+                - generic [ref=f4e61]:
+                  - generic [ref=f4e62]: $79
+                  - generic [ref=f4e63]: /month
+                - button "Start Free Trial" [ref=f4e64] [cursor=pointer]
+                - generic [ref=f4e66]:
+                  - generic [ref=f4e67]:
+                    - img [ref=f4e70]
+                    - generic [ref=f4e72]: Unlimited projects
+                  - generic [ref=f4e73]:
+                    - img [ref=f4e76]
+                    - generic [ref=f4e78]: 500GB storage
+                  - generic [ref=f4e79]:
+                    - img [ref=f4e82]
+                    - generic [ref=f4e84]: Advanced analytics
+                  - generic [ref=f4e85]:
+                    - img [ref=f4e88]
+                    - generic [ref=f4e90]: Priority support
+                  - generic [ref=f4e91]:
+                    - img [ref=f4e94]
+                    - generic [ref=f4e96]: Custom integrations
+                  - generic [ref=f4e97]:
+                    - img [ref=f4e100]
+                    - generic [ref=f4e102]: Team collaboration
+                  - generic [ref=f4e103]:
+                    - img [ref=f4e106]
+                    - generic [ref=f4e108]: API access
+            - generic [ref=f4e111]:
+              - generic [ref=f4e112]:
+                - heading "Enterprise" [level=3] [ref=f4e113]
+                - paragraph [ref=f4e114]: For large organizations
+              - generic [ref=f4e116]:
+                - generic [ref=f4e117]: Custom
+                - generic [ref=f4e118]: pricing
+              - button "Contact Sales" [ref=f4e119] [cursor=pointer]
+              - generic [ref=f4e121]:
+                - generic [ref=f4e122]:
+                  - img [ref=f4e125]
+                  - generic [ref=f4e127]: Everything in Pro
+                - generic [ref=f4e128]:
+                  - img [ref=f4e131]
+                  - generic [ref=f4e133]: Unlimited storage
+                - generic [ref=f4e134]:
+                  - img [ref=f4e137]
+                  - generic [ref=f4e139]: Custom analytics
+                - generic [ref=f4e140]:
+                  - img [ref=f4e143]
+                  - generic [ref=f4e145]: 24/7 dedicated support
+                - generic [ref=f4e146]:
+                  - img [ref=f4e149]
+                  - generic [ref=f4e151]: Advanced security
+                - generic [ref=f4e152]:
+                  - img [ref=f4e155]
+                  - generic [ref=f4e157]: SSO & SAML
+                - generic [ref=f4e158]:
+                  - img [ref=f4e161]
+                  - generic [ref=f4e163]: SLA guarantee
+          - paragraph [ref=f4e165]: All plans include a 14-day free trial. No credit card required.
+  - alert [ref=e46]
